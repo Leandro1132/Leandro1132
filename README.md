@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
 <h3 align="center">Systems Development student from Brazil</h3>
 
-- 🔭 I’m currently working on **BNDES - Estagiário**
+- 🔭 I’m currently working on **EY - Trainee**
 
-- 🌱 I’m currently learning **C#, .NET, SQL, Mysql, HTML + CSS, JavaScript, React**
-
-- 🤝 I’m looking for help with **Take Blip Fullstack Developer #2**
+- 🌱 I’m currently learning **Pega**
 
 - 💬 Ask me about **Java, Linux, MYSQL,Windows**
 
